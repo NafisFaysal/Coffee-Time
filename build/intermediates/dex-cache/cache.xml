@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_7ebb045ebfb6fd7dc9eb8cce1645f6956d9d4327/classes.dex" />
+    </item>
+    <item
+        jar="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="efb16d27ee5612f65f45801d564fb53c1ccfd0c7">
+        <dex dex="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d29bbad771d281e7ac60c92c53f4cf7cfa6a214/classes.dex" />
+    </item>
+    <item
+        jar="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e7ab4fd2a71d6a657fc4a7b14610ea9ccdc99673">
+        <dex dex="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8a48c86e5122a05fe1fbc0aea144d84242b8e1d0/classes.dex" />
+    </item>
+    <item
+        jar="/home/nafis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_270da958ea34b38d04f78c9e0d1b5be93608fd89/classes.dex" />
+    </item>
+    <item
+        jar="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_cf3e88691cc2019873303d7e4a423032b7172d0b/classes.dex" />
+    </item>
+    <item
+        jar="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_abb25fb49056771a61486ed697b495011cf241e4/classes.dex" />
+    </item>
+    <item
+        jar="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_6edd275f5c447086113f366bdad71bdc4e35e22b/classes.dex" />
+    </item>
+    <item
+        jar="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/nafis/AndroidStudioProjects/Coffee-Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_81b8671de09d3423d8ea67b1e85c6a9762efd3b3/classes.dex" />
+    </item>
+
+</items>
